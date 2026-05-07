@@ -1,0 +1,6 @@
+{
+  "name": "兩班競賽計時器",
+  "description": "提供兩組獨立的計時器，適合班級競賽或運動賽事使用。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
